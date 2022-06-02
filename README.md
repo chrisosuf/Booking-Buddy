@@ -1,10 +1,6 @@
-# CSCI-UA-102-Data-Structures
-Assignments/projects completed through NYU's Data Structures course
+# Booking Buddy
+A web app allowing users to compare booking rates across top hotel and short term stay websites
 
 ### Authors
 
 * Chris Osufsen 
-
-### Acknowledgments
-
-* NYU Computer Science Department
